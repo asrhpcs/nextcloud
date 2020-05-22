@@ -58,7 +58,7 @@ func nextcloudStore(cmd *cobra.Command, args []string) {
 	// Create back-up of InfluxDB database and get file names to be uploaded.
 	err = GetFilesWithPaths(nextcloudClient, filePath)
 	if err != nil {
-	 log.Fatalf("Failed to get the path of the files \n")
+		log.Fatalf("Failed to get the path of the files \n")
 	}
 	//CreateBackup(configInfluxDB)
 
