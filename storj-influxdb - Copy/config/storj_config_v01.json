@@ -1,0 +1,14 @@
+{ 
+    "apikey":     "13YqdqS8YaXbAGmQ2UUjmYm8oxCTZPsrLYdDDGRpLMiAgLSV3WHwfAsRzvUGc5jmmpBZJiiKHt4bRjMxvmFQLDPaGqkw7W6VpUNw2uH",
+    "satellite":  "us-central-1.tardigrade.io:7777",
+    "bucket":     "influxtest04",
+    "uploadPath": "uploadPath18",
+    "encryptionpassphrase": "test",
+    "serializedAccess": "14zZEdH4uEZwjbd4fKNHZffoWy5AW8jrFkJF9Sxd5PHH9EtjxEGjX99Zf6u4EGAaCacfHnqyXjJuvBDgATSziN9i4yr6LszLgJcTK5mz5hjuzviBBap4KinhWYpgRjrSCvvgjHWFBCt7GZxz9cqwdFay66pmARdgzBg5ocmHyMZSs4xnph8ywJBRB2Ph4Mzsren1GBDvQSCdvnj97K1w11pmYHGwTwULX9Bx7Nkd11h9CHZ1Z8uAm3FyY5QC3ob4U7UdD6fQBZWqQzRcKV",
+    "allowDownload": "true",
+    "allowUpload": "false",
+    "allowList": "true",
+    "allowDelete": "true",
+	"notBefore": "0",
+	"notAfter": "0"
+}	

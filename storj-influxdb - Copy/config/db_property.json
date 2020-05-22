@@ -1,0 +1,8 @@
+{ 
+    "hostname": "change-me-to-desired-hostname",
+    "port":     "change-me-to-desired-port-number",
+    "username": "change-me-to-desired-username",
+    "password": "change-me-to-desired-password",
+    "database": "change-me-to-desired-database-name",
+    "influxdExeutablePath": "change-me-to-desired-influx-path-including-executable-name"
+}
