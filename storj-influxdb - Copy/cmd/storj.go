@@ -253,8 +253,6 @@ func DownloadData(project *uplink.Project, configStorj ConfigStorj, downloadFile
 	}
 
 	directory, file := filepath.Split(downloadFileName)
-	fmt.Printf("Directory : " + directory)
-	fmt.Printf("file : " + file)
 	var receivedContents = []byte{}
 	var lastIndex int64
 	var buf = make([]byte, 32768)
